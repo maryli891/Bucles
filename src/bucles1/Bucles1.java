@@ -23,6 +23,7 @@ public class Bucles1 {
         {
             //stop = Integer.parseInt(JOptionPane.showInputDialog
             System.out.println(index);
+            index++;
         }
         //TODO code application logic here
     }
